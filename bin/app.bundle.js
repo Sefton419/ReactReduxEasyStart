@@ -54,7 +54,7 @@
 	ReactDOM.render(React.createElement(
 	  'h1',
 	  null,
-	  'Chicago Crime'
+	  'Lets Build a React App with Redux!'
 	), document.getElementById('example'));
 
 /***/ },
