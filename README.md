@@ -1,2 +1,2 @@
 # ReactReduxEasyStart
-a packed-and-ready React/Redux environment to begin building instantly
+A Signed-Sealed-Delivered React/Redux environment to begin building instantly
