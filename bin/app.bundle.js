@@ -52,9 +52,9 @@
 	var ReactDOM = __webpack_require__(330);
 
 	ReactDOM.render(React.createElement(
-	  'h1',
-	  null,
-	  'Lets Build a React App with Redux!'
+		'h1',
+		null,
+		'Lets Build a React App with Redux!'
 	), document.getElementById('example'));
 
 /***/ },
