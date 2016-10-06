@@ -55,7 +55,7 @@
 		'h1',
 		null,
 		'Lets Build a React App with Redux!'
-	), document.getElementById('example'));
+	), document.getElementById('app'));
 
 /***/ },
 /* 1 */
