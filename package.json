@@ -10,9 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.16.0",
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "4.13.4",
+    "lodash": "^4.13.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
     "redux": "^3.6.0",
     "webpack-dev-server": "^1.16.1"
   },
